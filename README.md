@@ -13,8 +13,6 @@ I am an Undergraduate in Computer Science and Engineering at Islamic University 
   <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=SFML&logoColor=white" />
 </p> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihadcse&show_icons=true&theme=radical)
-
 ### 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mihadcse/)
